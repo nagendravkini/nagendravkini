@@ -78,5 +78,5 @@
 <br>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&Left=true&v=true&Leftwidth=1100&height=80&duration=4500&lines=Thanks+For+Visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&Left=true&v=true&Leftwidth=900&height=50&duration=4500&lines=Thanks+For+Visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
 </h1>
