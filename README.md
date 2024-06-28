@@ -1,4 +1,6 @@
-<h1 align="center">Hey Everyone 👋, I'm Nagendra V Kini</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hey+Everyone!+👋;+I'm+Nagendra+V+Kini;" />
+</h1>
 <div align="center"> <img src="https://github.com/nagendravkini/nagendravkini/blob/main/GitHub_Banner.png"> </div>
 <h3 align="center">A Passionate Data Analyst from India, focused on mastering Python for Data Science. Connect with me on LinkedIn [www.linkedin.com/in/nagendravkini]</h3>
 
