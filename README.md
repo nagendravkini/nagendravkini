@@ -23,7 +23,6 @@
 </h4>
 
 <br>
-<br>
 
 ## 💻 Languages and Tools:
 <p align="left">
@@ -54,7 +53,6 @@
 </p>
 
 <br>
-<br>
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nagendravkini" /></p>
@@ -64,12 +62,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&theme=tokyonight" alt="nagendravkini" /></p>
 
 <br>
-<br>
 
 ## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini&theme=tokyonight" alt="nagendravkini" /></a> </p>
 
-<br>
 <br>
 
 ## 🔝 Top Contributed Repo
