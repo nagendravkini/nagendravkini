@@ -71,7 +71,7 @@ I am actively seeking opportunities for career growth, continuous learning, and 
 
 <p>&nbsp;&nbsp;&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nagendravkini&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="nagendravkini" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&theme=tokyonight" alt="nagendravkini" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&theme=tokyonight" alt="nagendravkini" /></p>
 
 <br>
 
