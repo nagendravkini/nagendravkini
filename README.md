@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img ![1d6bc03c3dd55bc1c59cec84edb81a46](https://github.com/nagendravkini/nagendravkini/assets/140932670/06f3e389-602e-412b-83ad-d6758eadcf8f)>
+<img align="right" src="![1d6bc03c3dd55bc1c59cec84edb81a46](https://github.com/nagendravkini/nagendravkini/assets/140932670/df856ebb-d0c3-4bed-8c85-3b37cf457d36)
+" width="380" height="660">
 
 
 
