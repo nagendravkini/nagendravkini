@@ -75,7 +75,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nagendravkini&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <br>
-
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&Left=true&v=true&Leftwidth=500&height=70&duration=4500&lines=Thanks+For+Visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
 </h1>
