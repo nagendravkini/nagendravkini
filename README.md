@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I am funny😁**
 </h4>
 
-<h2 align="left">Languages and Tools:</h2>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left">
     <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -50,16 +50,16 @@
     </a> 
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nagendravkini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendravkini&show_icons=true&locale=en&theme=tokyonight" alt="nagendravkini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&theme=tokyonight" alt="nagendravkini" /></p>
 
-### 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini&theme=tokyonight" alt="nagendravkini" /></a> </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nagendravkini&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
