@@ -27,7 +27,7 @@
 <br>
 <br>
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools :-
 <p align="left">
     <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -57,7 +57,7 @@
 
 <br>
 
-## 👦 About Me:
+## 👦 About Me :-
 I am a passionate Data Analyst dedicated to mastering the skills of data analytics and data science. My expertise spans a wide range of tools and languages, including Excel, Advanced Excel, MS PowerPoint, Tableau, PowerBI, SQL, R, and Python. Additionally, I excel in creating impactful presentations, ensuring that complex data insights are communicated effectively. 
 
 My GitHub repositories showcase a diverse array of projects that highlight my analytical capabilities and commitment to excellence in data analysis. I am eager to bring my skills to a dynamic team, where I can contribute to innovative, data-driven solutions.
@@ -66,7 +66,7 @@ I am actively seeking opportunities for career growth, continuous learning, and 
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats :-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nagendravkini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendravkini&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="nagendravkini" /></p>
@@ -75,12 +75,12 @@ I am actively seeking opportunities for career growth, continuous learning, and 
 
 <br>
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies :-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini&theme=tokyonight" alt="nagendravkini" /></a> </p>
 
 <br>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo :-
 ![](https://github-contributor-stats.vercel.app/api?username=nagendravkini&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <br>
 <h1>
