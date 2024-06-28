@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="300" height="260">
+<img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="300" height="255">
              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendravkini&label=Profile%20views&color=0e75b6&style=flat" alt="nagendravkini" /> </p>
