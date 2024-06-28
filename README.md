@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h2 align="center">A Passionate Data Analyst From India</h2>
 
 <img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="400" height="380">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendravkini&label=Profile%20views&color=0e75b6&style=flat" alt="nagendravkini" /> </p>
 
 - 🌱 I’m currently learning **Python For Data Science**
 
@@ -30,6 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&" alt="nagendravkini" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendravkini&label=Profile%20views&color=0e75b6&style=flat" alt="nagendravkini" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini" alt="nagendravkini" /></a> </p>
