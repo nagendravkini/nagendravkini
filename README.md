@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
 <h2 align="center">A Passionate Data Analyst From India</h2>
 
-<img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="400" height="380">
+<img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="300" height="280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendravkini&label=Profile%20views&color=0e75b6&style=flat" alt="nagendravkini" /> </p>
 
 - 🌱 I’m currently learning **Python For Data Science**
 
-- 👨‍💻 All of my projects are available at github
+- 👨‍💻 All of my projects are available at https://github.com/nagendravkini
   
 - 💬 Ask me about **Data Analysis**
 
