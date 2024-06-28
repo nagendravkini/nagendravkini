@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Python For Data Science**
 
-- 👨‍💻 All of my projects are available at https://github.com/nagendravkini
-
+- 👨‍💻 All of my projects are available at github
+  
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **nagendrakini02@gmail.com**
