@@ -18,30 +18,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Python_logo_01.svg" alt="python" width="40" height="40"/>
-  </a>  
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
-  </a>  
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-  </a>   
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
-  </a> 
+    <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>   
+    <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>   
+    <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>  
+    <a>
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/82979a2b-ba4b-44f4-b570-2687106559f4" alt="excel" width="40" height="40"/>
+    </a>  
+    <a>
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/2975ca78-e47b-4bb6-8413-e2552dbec35f" alt="Tableau" width="40" height="40"/>
+    </a>   
+    <a>
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/b1b21ba7-d5d5-4dd4-91da-bfd875766a11" alt="PowerBI" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://github.com/nagendravkini/nagendravkini/assets/140932670/d97d3f79-5a08-461f-88b6-c91f62e94bd8" alt="R" width="40" height="40"/>
+    </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact" alt="nagendravkini" /></p>
