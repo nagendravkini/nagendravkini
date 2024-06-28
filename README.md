@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am funny😁**
 
-<h3 align="left"  >Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nagendravkini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagendravkini" height="30" width="40" /></a>
 <a href="https://instagram.com/nagendra_kini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagendra_kini_" height="30" width="40" /></a>
