@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Nagendra V Kini</h1>
 <div align="center"> <img src="https://github.com/nagendravkini/nagendravkini/blob/main/GitHub_Banner.png"> </div>
-<h2 align="center">A Passionate Data Analyst From India</h2>
+<h3 align="center">A Passionate Data Analyst from India, focused on mastering Python for Data Science. Connect with me on LinkedIn [www.linkedin.com/in/nagendravkini]</h3>
 
 <img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="300" height="280">
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python For Data Science**
 
-- 👨‍💻 All of my projects are available at https://github.com/nagendravkini
+- 👨‍💻 All of my projects are available at **https://github.com/nagendravkini**
   
 - 💬 Ask me about **Data Analysis**
 
