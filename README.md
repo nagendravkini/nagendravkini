@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmale-programmer-creating-code-animation--687291593170985817%2F&psig=AOvVaw2BNI0cUP4LOwm6LS3Fq-DS&ust=1719648569984000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj0maXs_YYDFQAAAAAdAAAAABAE">
+<img ![1d6bc03c3dd55bc1c59cec84edb81a46](https://github.com/nagendravkini/nagendravkini/assets/140932670/06f3e389-602e-412b-83ad-d6758eadcf8f)>
+
 
 
 - 🌱 I’m currently learning **Python For Data Science**
