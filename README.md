@@ -1,5 +1,6 @@
 ![logo](https://github.com/nagendravkini/nagendravkini/blob/main/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
+<div align="center"> <img src="
 <h2 align="center">A Passionate Data Analyst From India</h2>
 
 <img align="right" src="https://github.com/nagendravkini/nagendravkini/assets/140932670/f5e638fc-000b-4d0d-88f4-5926a2a221e3" width="300" height="280">
