@@ -1,4 +1,4 @@
-![logo](https://github.com/nagendravkini/nagendravkini/blob/main/Blue%20and%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
+![logo](https://github.com/nagendravkini/nagendravkini/blob/main/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
 <h2 align="center">A Passionate Data Analyst From India</h2>
 
