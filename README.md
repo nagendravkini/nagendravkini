@@ -1,3 +1,4 @@
+![logo](https://github.com/nagendravkini/nagendravkini/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nagendra V Kini</h1>
 <h2 align="center">A Passionate Data Analyst From India</h2>
 
