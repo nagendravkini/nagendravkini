@@ -58,3 +58,9 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini" alt="nagendravkini" /></a> </p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username-nagendravkini&limit-5&theme-flat&combine_all_yearly_contributions-true)
+
+
+![Snake animation](https://github.com/nagendravkini/nagendravkini/blob/output/github-contribution-grid-snake.svg)
