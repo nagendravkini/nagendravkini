@@ -75,7 +75,7 @@ I am actively seeking opportunities for career growth, continuous learning, and 
 <p><img height=190 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nagendravkini&theme=tokyonight" alt="nagendravkini" /></p>
 </div>
 
-<br>
+<br>                                                                                                   
 
 ## 🏆 GitHub Trophies :-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagendravkini&theme=tokyonight" alt="nagendravkini" /></a> </p>
