@@ -68,7 +68,7 @@ I am actively seeking opportunities for career growth, continuous learning, and 
 
 ## 📊 GitHub Stats :-
 <div align=center>
-<p><img height=190 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nagendravkini" /></p>
+<p><img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendravkini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nagendravkini" /></p>
 
 <p><img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nagendravkini&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="nagendravkini" /></p>
 
